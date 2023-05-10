@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently working in front-end for aplication and web sites
-- 🌱 I’m currently learning ReactJS and React Native
+- 🌱 I’m currently learning C# and improving my backend skills (.NET, NodeJS)
+- 🤓 I’m improving my front-end skills studying Angular and NextJS
 - 📫 How to reach me: rafael.diasmm2000@gmail.com
 
 <div>
